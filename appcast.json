@@ -49,6 +49,16 @@
       "notes": "Recording: one Record button records every stream with Record Enable on, in sync, as Original (no re-encode), H.264, H.265, ProRes Proxy or ProRes LT, with time-of-day timecode. Restarted streams continue the take. The multiview records its clean picture. Audio is now always on; choose None (Multiview Only) to keep a stream off the Mac's speakers.",
       "releaseDate": "2026-10-11T06:47:27Z",
       "minimumSystemVersion": "14.0"
+    },
+    {
+      "version": "0.5.1",
+      "build": 7,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Stream-Decoder-releases/releases/download/v0.5.1/ProFusion-Stream-Decoder-0.5.1.zip",
+      "sha256": "8c5cc7fcd603d0d9e2f8763a256539f0ec9fc1aa584205db39d054abbb1adfc6",
+      "size": 7005071,
+      "notes": "Updated guided tour: Record Enable, the Record button and Stream Health. Help menu text for Resume Streams at Launch and Open at Login.",
+      "releaseDate": "2026-10-11T16:17:22Z",
+      "minimumSystemVersion": "14.0"
     }
   ]
 }
