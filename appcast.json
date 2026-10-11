@@ -29,6 +29,16 @@
       "notes": "Stops the repeated Keychain password prompts: the app is now signed so macOS recognises every update as the same app (you may be asked one last time after this update). After installing an update, the app reopens the copy that was just updated.",
       "releaseDate": "2026-10-11T04:35:11Z",
       "minimumSystemVersion": "14.0"
+    },
+    {
+      "version": "0.4.0",
+      "build": 5,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Stream-Decoder-releases/releases/download/v0.4.0/ProFusion-Stream-Decoder-0.4.0.zip",
+      "sha256": "f6c5aaa14ffe8068fc65afdd1f88ca85d3f7f98045791171dd651dd0c55db90d",
+      "size": 6786447,
+      "notes": "New sources: RTMP/RTMPS (listen or pull), RTSP, HLS and NDI, plus SRT Caller with stream ID. Stream Health window (Shift-Cmd-H) with bitrate, frame rate, SRT link stats and dropped frames. Keeps the Mac awake while streaming, resumes streams after a restart, optional Open at Login. Up to 8 streams on Pro/Max/Ultra Macs. Asks before removing a stream.",
+      "releaseDate": "2026-10-11T05:57:46Z",
+      "minimumSystemVersion": "14.0"
     }
   ]
 }
