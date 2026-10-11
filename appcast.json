@@ -9,6 +9,16 @@
       "notes": "First public release: SRT decoding to Blackmagic, NDI, displays and multiview; 7-day trial and licensing; feedback and crash reporting; automatic updates; guided tour.",
       "releaseDate": "2026-10-11T04:11:38Z",
       "minimumSystemVersion": "14.0"
+    },
+    {
+      "version": "0.3.1",
+      "build": 3,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Stream-Decoder-releases/releases/download/v0.3.1/ProFusion-Stream-Decoder-0.3.1.zip",
+      "sha256": "48d6c434851466b47846722821a1bcf4aed1b40fb8843acfe83415b5c1025e20",
+      "size": 5789782,
+      "notes": "Release notes now show in the update window. The app keeps one signing identity across updates, so macOS stops asking for your password to read the license (you may be asked one last time after this update; choose Always Allow).",
+      "releaseDate": "2026-10-11T04:17:01Z",
+      "minimumSystemVersion": "14.0"
     }
   ]
 }
