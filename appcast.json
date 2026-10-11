@@ -1,3 +1,14 @@
 {
-  "releases": []
+  "releases": [
+    {
+      "version": "0.3.0",
+      "build": 2,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Stream-Decoder-releases/releases/download/v0.3.0/ProFusion-Stream-Decoder-0.3.0.zip",
+      "sha256": "edcbe6101a45dbfbdb0dbea46ea6bbd6a453ba2d63b9d0e8a19a695efa185dbd",
+      "size": 5775963,
+      "notes": "First public release: SRT decoding to Blackmagic, NDI, displays and multiview; 7-day trial and licensing; feedback and crash reporting; automatic updates; guided tour.",
+      "releaseDate": "2026-10-11T04:11:38Z",
+      "minimumSystemVersion": "14.0"
+    }
+  ]
 }
