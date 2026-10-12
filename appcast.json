@@ -69,6 +69,16 @@
       "notes": "AJA output (beta): Io, KONA and T-TAP outputs appear next to Blackmagic under the new SDI / HDMI Device route, at 720p and 1080p (requires AJA Desktop Software). Blackmagic fixes: whole-number frame rates (24, 25, 30, 50, 60) now work; choosing SDI / HDMI Device picks a free output when the last one is in use; Blackmagic and AJA outputs carry only the audio embedded with their video. The multiview now starts with the app. Also: Help \u2192 Third-Party Notices, and an updated tour.",
       "releaseDate": "2026-10-12T16:43:50Z",
       "minimumSystemVersion": "14.0"
+    },
+    {
+      "version": "0.6.1",
+      "build": 9,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Stream-Decoder-releases/releases/download/v0.6.1/ProFusion-Stream-Decoder-0.6.1.zip",
+      "sha256": "052f5506ca014851bb12933ff4c3aa52c75394103fb733b1b20dc61145d17ff0",
+      "size": 7742500,
+      "notes": "Fix: a stream's saved SDI / HDMI output device is kept while the device is unplugged or powered off, and starting reports it as not connected instead of switching to another output.",
+      "releaseDate": "2026-10-12T16:48:49Z",
+      "minimumSystemVersion": "14.0"
     }
   ]
 }
