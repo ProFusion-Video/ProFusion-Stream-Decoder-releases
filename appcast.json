@@ -59,6 +59,16 @@
       "notes": "Updated guided tour: Record Enable, the Record button and Stream Health. Help menu text for Resume Streams at Launch and Open at Login.",
       "releaseDate": "2026-10-11T16:17:22Z",
       "minimumSystemVersion": "14.0"
+    },
+    {
+      "version": "0.6.0",
+      "build": 8,
+      "url": "https://github.com/ProFusion-Video/ProFusion-Stream-Decoder-releases/releases/download/v0.6.0/ProFusion-Stream-Decoder-0.6.0.zip",
+      "sha256": "743aaa1dc59d264958611ca4fa579e7e2f384bb59a64c441b5b47dcbc9fe9a22",
+      "size": 7742679,
+      "notes": "AJA output (beta): Io, KONA and T-TAP outputs appear next to Blackmagic under the new SDI / HDMI Device route, at 720p and 1080p (requires AJA Desktop Software). Blackmagic fixes: whole-number frame rates (24, 25, 30, 50, 60) now work; choosing SDI / HDMI Device picks a free output when the last one is in use; Blackmagic and AJA outputs carry only the audio embedded with their video. The multiview now starts with the app. Also: Help \u2192 Third-Party Notices, and an updated tour.",
+      "releaseDate": "2026-10-12T16:43:50Z",
+      "minimumSystemVersion": "14.0"
     }
   ]
 }
